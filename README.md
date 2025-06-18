@@ -7,6 +7,7 @@
 ## 🛠️ About Me
 
 ```text
-**Web Developer | 3+ Years of Experience**  
+Web Developer | 3+ Years of Experience
 
-I build responsive, performant, and accessible web applications with modern technologies. Passionate about clean code, intuitive UX, and open-source collaboration. 
+I build responsive, performant, and accessible web applications with modern technologies.
+Passionate about clean code, intuitive UX, and open-source collaboration. 
