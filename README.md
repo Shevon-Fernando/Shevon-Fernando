@@ -11,3 +11,20 @@ Web Developer | 3+ Years of Experience
 
 I build responsive, performant, and accessible web applications with modern technologies.
 Passionate about clean code, intuitive UX, and open-source collaboration. 
+
+```
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevon-Fernando-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
+  
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Shevon-Fernando-h&count_private=true&show_icons=true&theme=dark&hide=issues)
+
+</div><br>
