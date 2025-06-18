@@ -21,10 +21,10 @@ Passionate about clean code, intuitive UX, and open-source collaboration.
 ![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevon-Fernando-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevon-Fernando&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
   
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Shevon-Fernando-h&count_private=true&show_icons=true&theme=dark&hide=issues)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Shevon-Fernando&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
