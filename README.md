@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="CODING.png" height="200"/>
+  <img src="CODING2.png" height="200"/>
 </p>
 
 ## 🛠️ About Me
