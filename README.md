@@ -82,7 +82,7 @@ to open-source projects and collaborate on solutions that merge education with t
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  &copy; 2025 Shevon Fernando
 </div>
 
 ------
